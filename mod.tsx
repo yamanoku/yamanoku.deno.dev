@@ -17,7 +17,7 @@ const html = (
   <html>
     <head>
       <title>yamanoku.deno.dev</title>
-      <link rel="stylesheet" href="https://unpkg.com/yama-normalize@0.0.11/yama-normalize.css" />
+      <link rel="stylesheet" href="https://unpkg.com/yama-normalize@1.2.0/yama-normalize.css" />
     </head>
     <Body />
   </html>
